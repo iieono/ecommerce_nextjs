@@ -1,6 +1,5 @@
 Next.js E-commerce application \
 \
-With Sanity, Stripe
-\ 
+With Sanity, Stripe \ 
 \
 https://ecommerce-nextjs-plum.vercel.app/
