@@ -1,2 +1,2 @@
-Next.js E-commerce application \n
+Next.js E-commerce application \
 With Sanity, Stripe
